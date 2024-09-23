@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a developer with a diverse background, current
 - **Frameworks & Libraries**: Spring Boot, JavaFX, Selenium, Playwright, Puppeteer, Pytest, Mkdocs, Poetry, React.js
 - **Tools**: Jenkins, Travis CI, Docker, Postman, Multipass, AWS
 - **Databases & Storage**: MinIO, MySQL, PostgreSQL
-- **Web Development**: Modern CSS, Fixed Navbars, API Interactions
+- **Web Development**: React.js, Bootstrap, API Interactions
 
 ---
 
